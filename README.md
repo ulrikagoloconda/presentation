@@ -1,3 +1,3 @@
 # presentation
 
-Se överblick.pdf för en snabb sammanfattning och lite förklarande bilder. 
+Se översikt.pdf för en snabb sammanfattning och lite förklarande bilder. 
